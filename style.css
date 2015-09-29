@@ -1,0 +1,49 @@
+h2 {
+	color: #0000FF;
+	text-align: center;
+}
+
+h1 {
+	color: #FF0000;
+	text-align: center;
+	font-size: 100px;
+}
+
+p {
+	color: green;
+	text-align: center;
+	font-family: Impact;
+	font-size: 20px;
+}
+
+button {
+	font-size: 20px;
+	padding: 5px;
+	width: 100%;
+	display: block;
+	margin:0 auto;
+}
+
+.myB {
+	color: blue;
+}
+
+.myG {
+	color: green;
+}
+
+.myY {
+	color: yellow;
+}
+
+.myO {
+	color: orange;
+}
+
+.myR {
+	color: red;
+}
+
+.myV {
+	color: violet;
+}
